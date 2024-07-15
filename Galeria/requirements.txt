@@ -1,0 +1,16 @@
+django-admin-confirm
+django-simple-captcha
+pillow 
+django
+django-admin-interface
+psycopg2
+django-crispy-forms
+django-axes
+djangorestframework
+reportlab
+django-simple-captcha
+django-multi-captcha-admin
+
+
+#pip install r requirements.txt
+#examen
